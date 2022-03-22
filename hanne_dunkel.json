@@ -1,0 +1,14 @@
+lines (17 sloc) 666 Bytes
+{
+
+    "name": "Hanne Dunkel",
+    "title": "Projekt Manager Marketing mit Nachhaltigkeit",
+    "email": "hd@hanne-dunkel.de",
+    "phone": "06132 7389824",
+    "website": "https://hanne-dunkel-marketingundnachhaltigkeit.business.site/",
+    "city": ["Frankfurt", "Wiesbaden", "Mainz", "Ingelheim"],
+    "keywords": ["Marketing Management", "Nachhaltigkeit", "Redaktion und Content" "PR"],
+    "profiles": {
+        "xing": "https://www.xing.com/profile/Hanne_Dunkel/cv",
+        "linkedin": "https://www.linkedin.com/in/hannedunkel/"
+ }
